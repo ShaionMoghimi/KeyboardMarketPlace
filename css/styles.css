@@ -22,6 +22,17 @@
     height: 400px;
     width: 300px;
   }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  li {
+    float: left;
+    border-right:solid 1px #fff;/*add */
+  }
   h1 {
     margin-left: 25%;
     color: #77c9d4;
