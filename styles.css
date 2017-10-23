@@ -14,6 +14,7 @@
     background: linear-gradient(to bottom right, #77c9d4, #41f4d3); /* Standard syntax (must be last) */
   }
   #block {
+    margin-left: 25%;
     height: 400px;
     width: 300px;
   }
