@@ -1,4 +1,8 @@
 <style>
+  body {
+    margin: 0;
+    font-family: Arial;
+  }
   #grad1 {
     line-height: 200px;
     text-align: center;
