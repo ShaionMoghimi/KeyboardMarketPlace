@@ -32,6 +32,8 @@
   li {
     float: left;
     border-right:solid 1px #77c9d4;/*add */
+    width: 120px;
+    text-align: center;
   }
   h1 {
     margin-left: 25%;
