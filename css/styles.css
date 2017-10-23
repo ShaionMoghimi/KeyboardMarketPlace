@@ -35,7 +35,8 @@
   li {
     float: left;
     border-right:solid 1px #77c9d4;/*add */
-    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     text-align: center;
   }
   h1 {
