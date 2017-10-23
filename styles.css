@@ -19,7 +19,7 @@
   }
   #block {
     display: inline-block;
-    margin: 10px;
+    margin: 0;
     height: 400px;
     width: 300px;
   }
