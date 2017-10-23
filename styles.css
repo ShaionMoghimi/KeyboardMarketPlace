@@ -17,6 +17,7 @@
     margin-left: 25%;
   }
   #block {
+    display: inline-block;
     margin: 0;
     height: 400px;
     width: 300px;
