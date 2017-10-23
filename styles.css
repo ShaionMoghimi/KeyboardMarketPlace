@@ -23,6 +23,9 @@
     height: 400px;
     width: 300px;
   }
+  #block:hover {
+    color: blue;  
+  }
   h1 {
     color: white;
     font-size: 44;
