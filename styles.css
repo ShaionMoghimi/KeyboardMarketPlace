@@ -24,7 +24,7 @@
     width: 300px;
   }
   #block:hover {
-    color: blue;  
+    background-color: blue;  
   }
   h1 {
     color: white;
