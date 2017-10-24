@@ -40,6 +40,14 @@
     margin-left: 5px;
     color: white;
   }
+  #bannerCaption {
+    background-color: #22adb5;
+  }
+  #figureLink {
+    margin-top: 150px;
+    margin-left: 30px;
+    color: white;
+  }
   hr {
     border-top: 1px solid #77c9d4;
   }
