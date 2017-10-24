@@ -42,7 +42,9 @@
   }
   #imageBannerText {
     font-family: Helvetica;
-    font-size: 30px;
+    width: 100%;
+    max-width: 250px;
+    /*font-size: 30px;*/
     margin-left: 5px;
     color: white;
   }
