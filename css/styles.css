@@ -16,8 +16,8 @@
     background: linear-gradient(to bottom right, #77c9d4, #41f4d3); /* Standard syntax (must be last) */
   }
   #container {
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 75%;
+    margin: 0;
   }
   #block {
     display: inline-block;
